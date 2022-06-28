@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/princekhanna13/argocd.git
     targetRevision: HEAD
-    path: dev/charts/chart1
+    path: dev/charts/chart2
   destination: 
     server: https://kubernetes.default.svc
     namespace: argoexample2
